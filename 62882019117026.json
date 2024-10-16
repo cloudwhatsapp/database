@@ -285,13 +285,14 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 98,
+        "limit": 96,
         "saldo": 0,
-        "exp": 36,
+        "exp": 55,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
-        "level": 0
+        "level": 0,
+        "coins": 0
       },
       "62882019546437@s.whatsapp.net": {
         "rpg": false,
@@ -7396,7 +7397,13 @@
         "domba": 0,
         "sapi": 0,
         "ayam": 0,
-        "burutime": 0
+        "burutime": 0,
+        "bank": 0,
+        "lastclaim": 0,
+        "lastdagang": 0,
+        "lastbansos": 0,
+        "lastkerja": 0,
+        "lastrampok": 0
       },
       "62882019546437@s.whatsapp.net": {
         "kapal": false,
