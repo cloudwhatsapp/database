@@ -2366,13 +2366,14 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 100,
+        "limit": 99,
         "saldo": 0,
-        "exp": 0,
+        "exp": 19,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
-        "level": 0
+        "level": 0,
+        "coins": 0
       },
       "129901302653138@lid": {
         "rpg": false,
@@ -5250,9 +5251,9 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 0,
-        "limit": 42,
+        "limit": 39,
         "saldo": 0,
-        "exp": 658,
+        "exp": 694,
         "rank": 769,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -10510,7 +10511,13 @@
         "domba": 0,
         "sapi": 0,
         "ayam": 0,
-        "burutime": 0
+        "burutime": 0,
+        "bank": 0,
+        "lastclaim": 0,
+        "lastdagang": 0,
+        "lastbansos": 0,
+        "lastkerja": 0,
+        "lastrampok": 0
       },
       "129901302653138@lid": {
         "kapal": false,
