@@ -54,7 +54,7 @@
         "qioo": true,
         "chatAi": false,
         "caiSesi": "Tw0eHN_e73uh9JbIrof4TZuYYiLW-jm1Xink-wOFdpA",
-        "pctime": 1729088846709,
+        "pctime": 1729150775420,
         "nama": "Guest",
         "pacar": "",
         "askot": "jakarta",
@@ -62,7 +62,7 @@
         "glimit": 500,
         "limit": 10000000,
         "saldo": 750,
-        "exp": 1791,
+        "exp": 1856,
         "rank": 779,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -168,7 +168,8 @@
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
-        "level": 0
+        "level": 0,
+        "coins": 0
       },
       "6285608301021@s.whatsapp.net": {
         "rpg": false,
@@ -3233,7 +3234,8 @@
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
-        "level": 0
+        "level": 0,
+        "coins": 0
       },
       "6285835742404@s.whatsapp.net": {
         "rpg": false,
@@ -6139,7 +6141,9 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "nsfw": false
+        "nsfw": false,
+        "antisticker": false,
+        "liststore": {}
       },
       "6285787360178@s.whatsapp.net": {
         "goodbye": true,
@@ -7207,7 +7211,13 @@
         "domba": 0,
         "sapi": 0,
         "ayam": 0,
-        "burutime": 0
+        "burutime": 0,
+        "bank": 0,
+        "lastclaim": 0,
+        "lastdagang": 0,
+        "lastbansos": 0,
+        "lastkerja": 0,
+        "lastrampok": 0
       },
       "6285608301021@s.whatsapp.net": {
         "kapal": false,
@@ -11765,7 +11775,13 @@
         "domba": 0,
         "sapi": 0,
         "ayam": 0,
-        "burutime": 0
+        "burutime": 0,
+        "bank": 0,
+        "lastclaim": 0,
+        "lastdagang": 0,
+        "lastbansos": 0,
+        "lastkerja": 0,
+        "lastrampok": 0
       },
       "6285835742404@s.whatsapp.net": {
         "kapal": false,
