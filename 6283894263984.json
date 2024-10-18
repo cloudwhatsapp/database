@@ -2072,9 +2072,9 @@
         "nama": "Guest",
         "otp": 3827,
         "glimit": 14,
-        "limit": 1118,
+        "limit": 1117,
         "saldo": 231107000,
-        "exp": 21,
+        "exp": 31,
         "rank": 1087,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -11066,7 +11066,11 @@
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
-        "level": 0
+        "level": 0,
+        "pacar": "",
+        "askot": "jakarta",
+        "umur": 0,
+        "coins": 0
       },
       "62895383131785@s.whatsapp.net": {
         "rpg": false,
@@ -12090,7 +12094,11 @@
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
-        "level": 0
+        "level": 0,
+        "pacar": "",
+        "askot": "jakarta",
+        "umur": 0,
+        "coins": 0
       },
       "6285707245344@s.whatsapp.net": {
         "rpg": false,
@@ -38397,7 +38405,13 @@
         "domba": 0,
         "sapi": 0,
         "ayam": 0,
-        "burutime": 0
+        "burutime": 0,
+        "bank": 0,
+        "lastclaim": 0,
+        "lastdagang": 0,
+        "lastbansos": 0,
+        "lastkerja": 0,
+        "lastrampok": 0
       },
       "62895383131785@s.whatsapp.net": {
         "kapal": false,
@@ -40089,7 +40103,13 @@
         "domba": 0,
         "sapi": 0,
         "ayam": 0,
-        "burutime": 0
+        "burutime": 0,
+        "bank": 0,
+        "lastclaim": 0,
+        "lastdagang": 0,
+        "lastbansos": 0,
+        "lastkerja": 0,
+        "lastrampok": 0
       },
       "6285707245344@s.whatsapp.net": {
         "kapal": false,
