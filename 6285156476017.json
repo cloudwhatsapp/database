@@ -11,7 +11,7 @@
         "qioo": false,
         "chatAi": false,
         "caiSesi": "",
-        "pctime": 1729957225991,
+        "pctime": 1729992203809,
         "nama": "Guest",
         "pacar": "",
         "askot": "jakarta",
@@ -21,7 +21,7 @@
         "coins": 0,
         "saldo": 0,
         "topup": 37083,
-        "exp": 1745,
+        "exp": 1756,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -6102,7 +6102,8 @@
         "setleft": false,
         "setwelcome": false,
         "liststore": {},
-        "nsfw": false
+        "nsfw": false,
+        "mute1": false
       },
       "6285600866707@s.whatsapp.net": {
         "goodbye": false,
