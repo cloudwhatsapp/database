@@ -68,7 +68,7 @@
         "qioo": false,
         "chatAi": false,
         "caiSesi": "",
-        "pctime": 1730356703617,
+        "pctime": 1730386466761,
         "nama": "Fyy",
         "pacar": "",
         "askot": "jakarta",
@@ -76,9 +76,9 @@
         "glimit": 2,
         "limit": 21,
         "coins": 0,
-        "saldo": 4909,
-        "exp": 1212,
-        "rank": 97,
+        "saldo": 5159,
+        "exp": 1657,
+        "rank": 133,
         "antilinkcount": 0,
         "toxiccount": 0,
         "level": 10
@@ -242,10 +242,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 96,
+        "limit": 94,
         "coins": 0,
         "saldo": 0,
-        "exp": 51,
+        "exp": 57,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -350,7 +350,7 @@
         "limit": 10000020,
         "coins": 0,
         "saldo": 0,
-        "exp": 1770,
+        "exp": 1811,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -371,7 +371,7 @@
         "limit": 0,
         "coins": 0,
         "saldo": 13500,
-        "exp": 2151,
+        "exp": 2206,
         "rank": 730,
         "antilinkcount": 0,
         "toxiccount": 1,
@@ -392,7 +392,7 @@
         "limit": 10000000,
         "coins": 0,
         "saldo": 0,
-        "exp": 1416,
+        "exp": 1524,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -431,10 +431,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 0,
-        "limit": 39,
+        "limit": 38,
         "coins": 0,
         "saldo": 0,
-        "exp": 101,
+        "exp": 103,
         "rank": 951,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -833,7 +833,7 @@
         "limit": 10000000,
         "coins": 0,
         "saldo": 0,
-        "exp": 1436,
+        "exp": 1633,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -892,12 +892,12 @@
         "pacar": "",
         "askot": "jakarta",
         "umur": 0,
-        "glimit": 500,
-        "limit": 9999992,
+        "glimit": 494,
+        "limit": 9999984,
         "coins": 0,
-        "saldo": 0,
-        "exp": 990,
-        "rank": 700,
+        "saldo": 1250,
+        "exp": 1087,
+        "rank": 815,
         "antilinkcount": 0,
         "toxiccount": 0,
         "level": 0
@@ -935,10 +935,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 500,
-        "limit": 9999982,
+        "limit": 9999972,
         "coins": 0,
         "saldo": 0,
-        "exp": 457,
+        "exp": 546,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -977,10 +977,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 48,
+        "limit": 46,
         "coins": 0,
         "saldo": 2750,
-        "exp": 1011,
+        "exp": 1032,
         "rank": 958,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -998,10 +998,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 90,
+        "limit": 89,
         "coins": 0,
         "saldo": 0,
-        "exp": 127,
+        "exp": 146,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -1019,10 +1019,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 0,
-        "limit": 4,
+        "limit": 1,
         "coins": 0,
         "saldo": 1750,
-        "exp": 1023,
+        "exp": 1055,
         "rank": 844,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -1085,7 +1085,7 @@
         "limit": 52,
         "coins": 0,
         "saldo": 0,
-        "exp": 810,
+        "exp": 868,
         "rank": 741,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -1123,12 +1123,12 @@
         "pacar": "",
         "askot": "jakarta",
         "umur": 16,
-        "glimit": 53,
+        "glimit": 23,
         "limit": 1,
         "coins": 0,
-        "saldo": 30752,
-        "exp": 299,
-        "rank": 5639,
+        "saldo": 4426,
+        "exp": 910,
+        "rank": 5803,
         "antilinkcount": 0,
         "toxiccount": 0,
         "level": 2
@@ -1442,7 +1442,7 @@
         "limit": 10000050,
         "coins": 0,
         "saldo": 49250,
-        "exp": 1549,
+        "exp": 1556,
         "rank": 3169,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -1504,11 +1504,12 @@
         "limit": 9999990,
         "coins": 0,
         "saldo": 0,
-        "exp": 829,
+        "exp": 913,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
-        "level": 0
+        "level": 0,
+        "caiSesi": ""
       },
       "6289685133405@s.whatsapp.net": {
         "rpg": false,
@@ -1585,10 +1586,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 66,
+        "limit": 65,
         "coins": 0,
         "saldo": 0,
-        "exp": 367,
+        "exp": 376,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -1606,10 +1607,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 0,
-        "limit": 186,
+        "limit": 183,
         "coins": 0,
         "saldo": 0,
-        "exp": 692,
+        "exp": 728,
         "rank": 844,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -1648,10 +1649,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 35,
-        "limit": 0,
+        "limit": 1,
         "coins": 0,
-        "saldo": 2000,
-        "exp": 124,
+        "saldo": 9000,
+        "exp": 232,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 1,
@@ -1669,10 +1670,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 54,
+        "limit": 53,
         "coins": 0,
         "saldo": 0,
-        "exp": 486,
+        "exp": 492,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -1795,10 +1796,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 5,
+        "limit": 0,
         "coins": 0,
         "saldo": 14000,
-        "exp": 1267,
+        "exp": 1334,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -1816,10 +1817,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 1,
-        "limit": 51,
+        "limit": 46,
         "coins": 0,
         "saldo": 1750,
-        "exp": 475,
+        "exp": 552,
         "rank": 845,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -1879,10 +1880,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 499,
-        "limit": 9999952,
+        "limit": 9999949,
         "coins": 0,
         "saldo": 1250,
-        "exp": 644,
+        "exp": 673,
         "rank": 849,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -2047,10 +2048,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 95,
+        "limit": 93,
         "coins": 0,
         "saldo": 0,
-        "exp": 75,
+        "exp": 95,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -2278,10 +2279,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 94,
+        "limit": 93,
         "coins": 0,
         "saldo": 0,
-        "exp": 67,
+        "exp": 73,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -2299,10 +2300,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 1,
-        "limit": 61,
+        "limit": 59,
         "coins": 0,
         "saldo": 1250,
-        "exp": 373,
+        "exp": 394,
         "rank": 843,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -2377,7 +2378,7 @@
         "qioo": false,
         "chatAi": false,
         "caiSesi": "",
-        "pctime": 1730355454467,
+        "pctime": 1730377367332,
         "nama": "Vina",
         "pacar": "",
         "askot": "jakarta",
@@ -2385,9 +2386,9 @@
         "glimit": 500,
         "limit": 10000020,
         "coins": 0,
-        "saldo": 17000,
-        "exp": 134,
-        "rank": 1704,
+        "saldo": 22750,
+        "exp": 484,
+        "rank": 2222,
         "antilinkcount": 0,
         "toxiccount": 0,
         "level": 1
@@ -2467,10 +2468,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 4,
+        "limit": 0,
         "coins": 0,
         "saldo": 14000,
-        "exp": 1422,
+        "exp": 1471,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -2509,10 +2510,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 100,
+        "limit": 94,
         "coins": 0,
         "saldo": 0,
-        "exp": 1022,
+        "exp": 1079,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -2908,10 +2909,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 71,
+        "limit": 70,
         "coins": 0,
         "saldo": 0,
-        "exp": 331,
+        "exp": 336,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -3076,10 +3077,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 40,
+        "limit": 34,
         "coins": 0,
         "saldo": 0,
-        "exp": 602,
+        "exp": 658,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -3349,10 +3350,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 87,
+        "limit": 86,
         "coins": 0,
         "saldo": 0,
-        "exp": 119,
+        "exp": 135,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -3559,10 +3560,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 0,
-        "limit": 30,
+        "limit": 28,
         "coins": 0,
         "saldo": 9500,
-        "exp": 907,
+        "exp": 931,
         "rank": 1440,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -3601,10 +3602,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 500,
-        "limit": 9999709,
+        "limit": 9999697,
         "coins": 0,
         "saldo": 10000,
-        "exp": 1995,
+        "exp": 2125,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 4,
@@ -3769,10 +3770,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 84,
+        "limit": 81,
         "coins": 0,
         "saldo": 0,
-        "exp": 163,
+        "exp": 195,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -3874,10 +3875,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 48,
+        "limit": 44,
         "coins": 0,
         "saldo": 0,
-        "exp": 589,
+        "exp": 641,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -3937,10 +3938,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 53,
+        "limit": 52,
         "coins": 0,
         "saldo": 0,
-        "exp": 519,
+        "exp": 536,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -3958,10 +3959,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 57,
+        "limit": 56,
         "coins": 0,
         "saldo": 7000,
-        "exp": 739,
+        "exp": 741,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -3979,10 +3980,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 500,
-        "limit": 9999944,
+        "limit": 9999942,
         "coins": 0,
         "saldo": 7000,
-        "exp": 1013,
+        "exp": 1046,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -4297,7 +4298,7 @@
         "limit": 10000000,
         "coins": 0,
         "saldo": 0,
-        "exp": 486,
+        "exp": 518,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -4525,10 +4526,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 20,
+        "limit": 19,
         "coins": 0,
         "saldo": 0,
-        "exp": 864,
+        "exp": 895,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -4546,10 +4547,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 14,
-        "limit": 21,
+        "limit": 16,
         "coins": 0,
         "saldo": 0,
-        "exp": 919,
+        "exp": 973,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -4672,10 +4673,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 84,
+        "limit": 83,
         "coins": 0,
         "saldo": 0,
-        "exp": 220,
+        "exp": 225,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -4693,10 +4694,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 98,
+        "limit": 97,
         "coins": 0,
         "saldo": 0,
-        "exp": 23,
+        "exp": 39,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -4945,10 +4946,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 24,
+        "limit": 20,
         "coins": 0,
         "saldo": 0,
-        "exp": 793,
+        "exp": 821,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -5176,10 +5177,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 33,
+        "limit": 32,
         "coins": 0,
         "saldo": 0,
-        "exp": 821,
+        "exp": 825,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -5365,10 +5366,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 73,
+        "limit": 71,
         "coins": 0,
         "saldo": 0,
-        "exp": 303,
+        "exp": 328,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -5386,10 +5387,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 71,
+        "limit": 69,
         "coins": 0,
         "saldo": 0,
-        "exp": 314,
+        "exp": 340,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -6037,10 +6038,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 5,
-        "limit": 0,
+        "limit": 6,
         "coins": 0,
-        "saldo": 9750,
-        "exp": 1528,
+        "saldo": 7250,
+        "exp": 1616,
         "rank": 760,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -6163,10 +6164,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 70,
+        "limit": 69,
         "coins": 0,
         "saldo": 0,
-        "exp": 291,
+        "exp": 310,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 1,
@@ -6289,10 +6290,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 0,
-        "limit": 51,
+        "limit": 45,
         "coins": 0,
         "saldo": 1000,
-        "exp": 479,
+        "exp": 560,
         "rank": 644,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -6457,10 +6458,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 100,
+        "limit": 96,
         "coins": 0,
         "saldo": 0,
-        "exp": 0,
+        "exp": 35,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -7066,10 +7067,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 100,
+        "limit": 99,
         "coins": 0,
         "saldo": 0,
-        "exp": 0,
+        "exp": 10,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -7191,14 +7192,14 @@
         "pacar": "",
         "askot": "jakarta",
         "umur": 0,
-        "glimit": 0,
-        "limit": 88,
+        "glimit": 1,
+        "limit": 38,
         "coins": 0,
-        "saldo": 3750,
-        "exp": 778,
-        "rank": 1236,
+        "saldo": 9750,
+        "exp": 1473,
+        "rank": 2083,
         "antilinkcount": 0,
-        "toxiccount": 0,
+        "toxiccount": 1,
         "level": 0
       },
       "6288212623226@s.whatsapp.net": {
@@ -7276,11 +7277,11 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 12,
-        "limit": 62,
+        "limit": 59,
         "coins": 0,
-        "saldo": 0,
-        "exp": 688,
-        "rank": 669,
+        "saldo": 250,
+        "exp": 715,
+        "rank": 672,
         "antilinkcount": 0,
         "toxiccount": 3,
         "level": 0
@@ -7468,7 +7469,7 @@
         "limit": 73,
         "coins": 0,
         "saldo": 0,
-        "exp": 524,
+        "exp": 602,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -7507,10 +7508,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 37,
+        "limit": 34,
         "coins": 0,
         "saldo": 0,
-        "exp": 709,
+        "exp": 745,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -7612,10 +7613,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 98,
+        "limit": 97,
         "coins": 0,
         "saldo": 0,
-        "exp": 28,
+        "exp": 32,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -8011,10 +8012,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 93,
+        "limit": 90,
         "coins": 0,
         "saldo": 0,
-        "exp": 74,
+        "exp": 121,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -8661,11 +8662,11 @@
         "pacar": "",
         "askot": "jakarta",
         "umur": 0,
-        "glimit": 14,
-        "limit": 29,
+        "glimit": 13,
+        "limit": 28,
         "coins": 0,
         "saldo": 500,
-        "exp": 692,
+        "exp": 696,
         "rank": 734,
         "antilinkcount": 0,
         "toxiccount": 2,
@@ -8829,11 +8830,11 @@
         "pacar": "",
         "askot": "jakarta",
         "umur": 0,
-        "glimit": 0,
-        "limit": 71,
+        "glimit": 10,
+        "limit": 69,
         "coins": 0,
-        "saldo": 3750,
-        "exp": 310,
+        "saldo": 1250,
+        "exp": 317,
         "rank": 1036,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -9764,7 +9765,7 @@
         "level": 0
       },
       "6283837211245@s.whatsapp.net": {
-        "rpg": false,
+        "rpg": true,
         "daftar": true,
         "qioo": false,
         "chatAi": false,
@@ -9774,15 +9775,15 @@
         "pacar": "",
         "askot": "jakarta",
         "umur": 13,
-        "glimit": 71,
+        "glimit": 41,
         "limit": 1,
         "coins": 0,
-        "saldo": 14810912,
-        "exp": 1967,
-        "rank": 5619,
+        "saldo": 250,
+        "exp": 2500,
+        "rank": 9023,
         "antilinkcount": 0,
         "toxiccount": 0,
-        "level": 3
+        "level": 4
       },
       "6285828600189@s.whatsapp.net": {
         "rpg": false,
@@ -10573,10 +10574,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 11,
-        "limit": 62,
+        "limit": 61,
         "coins": 0,
         "saldo": 0,
-        "exp": 408,
+        "exp": 412,
         "rank": 699,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -10783,10 +10784,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 61,
+        "limit": 56,
         "coins": 0,
         "saldo": 0,
-        "exp": 366,
+        "exp": 427,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -12442,10 +12443,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 24,
+        "limit": 12,
         "coins": 0,
         "saldo": 0,
-        "exp": 812,
+        "exp": 937,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -13360,7 +13361,7 @@
         "qioo": false,
         "chatAi": false,
         "caiSesi": "",
-        "pctime": 1730286150815,
+        "pctime": 1730399484410,
         "nama": "Guest",
         "pacar": "",
         "askot": "jakarta",
@@ -13368,9 +13369,9 @@
         "glimit": 15,
         "limit": 100,
         "coins": 0,
-        "saldo": 250,
-        "exp": 1529,
-        "rank": 707,
+        "saldo": 500,
+        "exp": 1610,
+        "rank": 708,
         "antilinkcount": 0,
         "toxiccount": 0,
         "level": 0
@@ -13639,10 +13640,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 89,
+        "limit": 88,
         "coins": 0,
         "saldo": 0,
-        "exp": 106,
+        "exp": 121,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -13765,10 +13766,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 94,
+        "limit": 92,
         "coins": 0,
         "saldo": 0,
-        "exp": 75,
+        "exp": 83,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -14332,10 +14333,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 74,
+        "limit": 69,
         "coins": 0,
         "saldo": 0,
-        "exp": 233,
+        "exp": 295,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -14458,10 +14459,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 98,
+        "limit": 90,
         "coins": 0,
         "saldo": 0,
-        "exp": 23,
+        "exp": 102,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -14479,10 +14480,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 100,
+        "limit": 98,
         "coins": 0,
         "saldo": 0,
-        "exp": 0,
+        "exp": 25,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -14647,10 +14648,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 94,
+        "limit": 92,
         "coins": 0,
         "saldo": 0,
-        "exp": 91,
+        "exp": 111,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -14794,10 +14795,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 99,
+        "limit": 98,
         "coins": 0,
         "saldo": 0,
-        "exp": 4,
+        "exp": 6,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -14836,10 +14837,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 89,
+        "limit": 88,
         "coins": 0,
         "saldo": 0,
-        "exp": 118,
+        "exp": 138,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -14920,10 +14921,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 100,
+        "limit": 98,
         "coins": 0,
         "saldo": 0,
-        "exp": 0,
+        "exp": 26,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -14941,10 +14942,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 107,
+        "limit": 106,
         "coins": 0,
         "saldo": 7000,
-        "exp": 56,
+        "exp": 76,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -14962,10 +14963,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 95,
+        "limit": 90,
         "coins": 0,
         "saldo": 0,
-        "exp": 29,
+        "exp": 73,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -15235,10 +15236,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 96,
+        "limit": 99,
         "coins": 0,
         "saldo": 0,
-        "exp": 53,
+        "exp": 11,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -15642,6 +15643,258 @@
         "antilinkcount": 0,
         "toxiccount": 0,
         "level": 0
+      },
+      "6289601404904@s.whatsapp.net": {
+        "rpg": false,
+        "daftar": false,
+        "qioo": false,
+        "chatAi": false,
+        "caiSesi": "",
+        "pctime": "",
+        "nama": "Guest",
+        "pacar": "",
+        "askot": "jakarta",
+        "umur": 0,
+        "glimit": 15,
+        "limit": 100,
+        "coins": 0,
+        "saldo": 0,
+        "exp": 0,
+        "rank": 700,
+        "antilinkcount": 0,
+        "toxiccount": 0,
+        "level": 0
+      },
+      "6285142696114@s.whatsapp.net": {
+        "rpg": false,
+        "daftar": false,
+        "qioo": false,
+        "chatAi": false,
+        "caiSesi": "",
+        "pctime": "",
+        "nama": "Guest",
+        "pacar": "",
+        "askot": "jakarta",
+        "umur": 0,
+        "glimit": 15,
+        "limit": 99,
+        "coins": 0,
+        "saldo": 0,
+        "exp": 18,
+        "rank": 700,
+        "antilinkcount": 0,
+        "toxiccount": 0,
+        "level": 0
+      },
+      "6283132963885@s.whatsapp.net": {
+        "rpg": false,
+        "daftar": false,
+        "qioo": false,
+        "chatAi": false,
+        "caiSesi": "",
+        "pctime": "",
+        "nama": "Guest",
+        "pacar": "",
+        "askot": "jakarta",
+        "umur": 0,
+        "glimit": 15,
+        "limit": 99,
+        "coins": 0,
+        "saldo": 0,
+        "exp": 14,
+        "rank": 700,
+        "antilinkcount": 0,
+        "toxiccount": 0,
+        "level": 0
+      },
+      "62895418268190@s.whatsapp.net": {
+        "rpg": false,
+        "daftar": false,
+        "qioo": false,
+        "chatAi": false,
+        "caiSesi": "",
+        "pctime": "",
+        "nama": "Guest",
+        "pacar": "",
+        "askot": "jakarta",
+        "umur": 0,
+        "glimit": 15,
+        "limit": 93,
+        "coins": 0,
+        "saldo": 0,
+        "exp": 97,
+        "rank": 700,
+        "antilinkcount": 0,
+        "toxiccount": 0,
+        "level": 0
+      },
+      "6282245228288@s.whatsapp.net": {
+        "rpg": false,
+        "daftar": false,
+        "qioo": false,
+        "chatAi": false,
+        "caiSesi": "",
+        "pctime": "",
+        "nama": "Guest",
+        "pacar": "",
+        "askot": "jakarta",
+        "umur": 0,
+        "glimit": 15,
+        "limit": 84,
+        "coins": 0,
+        "saldo": 0,
+        "exp": 217,
+        "rank": 700,
+        "antilinkcount": 0,
+        "toxiccount": 0,
+        "level": 0
+      },
+      "62895422354894@s.whatsapp.net": {
+        "rpg": false,
+        "daftar": false,
+        "qioo": false,
+        "chatAi": false,
+        "caiSesi": "",
+        "pctime": "",
+        "nama": "Guest",
+        "pacar": "",
+        "askot": "jakarta",
+        "umur": 0,
+        "glimit": 15,
+        "limit": 99,
+        "coins": 0,
+        "saldo": 0,
+        "exp": 11,
+        "rank": 700,
+        "antilinkcount": 0,
+        "toxiccount": 0,
+        "level": 0
+      },
+      "62895336700761@s.whatsapp.net": {
+        "rpg": false,
+        "daftar": false,
+        "qioo": false,
+        "chatAi": false,
+        "caiSesi": "",
+        "pctime": "",
+        "nama": "Guest",
+        "pacar": "",
+        "askot": "jakarta",
+        "umur": 0,
+        "glimit": 15,
+        "limit": 98,
+        "coins": 0,
+        "saldo": 0,
+        "exp": 41,
+        "rank": 700,
+        "antilinkcount": 0,
+        "toxiccount": 0,
+        "level": 0
+      },
+      "6282119900908@s.whatsapp.net": {
+        "rpg": false,
+        "daftar": false,
+        "qioo": false,
+        "chatAi": false,
+        "caiSesi": "",
+        "pctime": "",
+        "nama": "Guest",
+        "pacar": "",
+        "askot": "jakarta",
+        "umur": 0,
+        "glimit": 15,
+        "limit": 96,
+        "coins": 0,
+        "saldo": 0,
+        "exp": 21,
+        "rank": 700,
+        "antilinkcount": 0,
+        "toxiccount": 0,
+        "level": 0
+      },
+      "6285524795080@s.whatsapp.net": {
+        "rpg": false,
+        "daftar": false,
+        "qioo": false,
+        "chatAi": false,
+        "caiSesi": "",
+        "pctime": "",
+        "nama": "Guest",
+        "pacar": "",
+        "askot": "jakarta",
+        "umur": 0,
+        "glimit": 15,
+        "limit": 100,
+        "coins": 0,
+        "saldo": 0,
+        "exp": 0,
+        "rank": 700,
+        "antilinkcount": 0,
+        "toxiccount": 0,
+        "level": 0
+      },
+      "6281217370331@s.whatsapp.net": {
+        "rpg": false,
+        "daftar": false,
+        "qioo": false,
+        "chatAi": false,
+        "caiSesi": "",
+        "pctime": "",
+        "nama": "Guest",
+        "pacar": "",
+        "askot": "jakarta",
+        "umur": 0,
+        "glimit": 15,
+        "limit": 99,
+        "coins": 0,
+        "saldo": 0,
+        "exp": 15,
+        "rank": 700,
+        "antilinkcount": 0,
+        "toxiccount": 0,
+        "level": 0
+      },
+      "6283843816575@s.whatsapp.net": {
+        "rpg": false,
+        "daftar": false,
+        "qioo": false,
+        "chatAi": false,
+        "caiSesi": "",
+        "pctime": "",
+        "nama": "Guest",
+        "pacar": "",
+        "askot": "jakarta",
+        "umur": 0,
+        "glimit": 15,
+        "limit": 99,
+        "coins": 0,
+        "saldo": 0,
+        "exp": 6,
+        "rank": 700,
+        "antilinkcount": 0,
+        "toxiccount": 0,
+        "level": 0
+      },
+      "6283808666216@s.whatsapp.net": {
+        "rpg": false,
+        "daftar": false,
+        "qioo": false,
+        "chatAi": false,
+        "caiSesi": "",
+        "pctime": "",
+        "nama": "Guest",
+        "pacar": "",
+        "askot": "jakarta",
+        "umur": 0,
+        "glimit": 15,
+        "limit": 98,
+        "coins": 0,
+        "saldo": 0,
+        "exp": 28,
+        "rank": 700,
+        "antilinkcount": 0,
+        "toxiccount": 0,
+        "level": 0
       }
     },
     "chats": {
@@ -15677,7 +15930,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "62881011126502@s.whatsapp.net": {
@@ -15712,7 +15964,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "120363160531087470@g.us": {
@@ -15747,12 +15998,11 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "120363279030935816@newsletter": {
         "goodbye": false,
-        "welcome": false,
+        "=me": false,
         "antilink": false,
         "antibot": false,
         "antibot2": false,
@@ -15782,7 +16032,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "120363145472468862@g.us": {
@@ -15817,7 +16066,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "120363186130999681@newsletter": {
@@ -15852,13 +16100,12 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "120363294543978651@g.us": {
         "goodbye": false,
         "welcome": false,
-        "antilink": false,
+        "antilink": true,
         "antibot": false,
         "antibot2": false,
         "antilinktt": false,
@@ -15873,7 +16120,7 @@
         "antiwame": false,
         "antiwame2": false,
         "antipolling": false,
-        "antilinkall": true,
+        "antilinkall": false,
         "antilink2": false,
         "autodl": false,
         "autoaigc": false,
@@ -15887,7 +16134,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "120363336904155234@g.us": {
@@ -15922,7 +16168,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "120363257580803034@g.us": {
@@ -15957,14 +16202,6 @@
         "setopen": false,
         "setleft": "Bye2 @user,Jan harap bisa masuk GC ini lagi",
         "setwelcome": false,
-        "liststore": {
-          "sewabot": {
-            "key": "sewabot",
-            "response": "`PRINCE LIST SEWA BOT`\n *ALYA OFFICIAL*\n\n> Rp _~120.000~_ *Rp100.000* Permanent\n> Rp _~30.000~_ *Rp 25.000* /bulan + 20 hari + Prem bot 1 bulan\n> Rp _~20.000~_ *Rp 15.000* /bulan + Prem bot 15 day/hari\n> Rp _~10.000~_ *Rp 5.000* 14 hari\n\n`PRINCE LIST BUYPREM/VIP BOT`\n *ALYA OFFICIAL*\n\n> *Rp 10.000* /bulan\n> *Rp 5.000* 14 hari\n\nKelebihan?bisa gunain fitur bot yang VIP/PREMIUM!!!\nDan Bisa Menggunakan Bot Secara Pribadi!!\nMinat?chat me wa.me/62881011126502",
-            "img": "",
-            "video": ""
-          }
-        },
         "nsfw": false
       },
       "120363332490335834@g.us": {
@@ -15999,14 +16236,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {
-          "sewabot": {
-            "key": "sewabot",
-            "response": "`PRINCE LIST SEWA BOT`\n *ALYA OFFICIAL*\n\n> Rp _~120.000~_ *Rp100.000* 1 tahun + Prem 10 bulan\n> Rp _~30.000~_ *Rp 25.000* /bulan + 20 hari + Prem bot 1 bulan\n> Rp _~20.000~_ *Rp 15.000* /bulan + Prem bot 15 day/hari\n> Rp _~10.000~_ *Rp 5.000* 14 hari\n\n`PRINCE LIST BUYPREM/VIP BOT`\n *ALYA OFFICIAL*\n\n> *Rp 10.000* /bulan\n> *Rp 5.000* 14 hari\n\nKelebihan?bisa gunain fitur bot yang VIP/PREMIUM!!!\nMinat?chat me wa.me/62881011126502",
-            "img": "",
-            "video": ""
-          }
-        },
         "nsfw": false
       },
       "120363125162590457@g.us": {
@@ -16041,62 +16270,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": "Halo @user, Selamat datang di @group\nUntuk melihat produk kami ketik *.list*\n\nAtau click button di bawah👇",
-        "liststore": {
-          "joki ranked": {
-            "key": "joki ranked",
-            "response": "+ ─── ⋆⋅☆⋅⋆ ───`ᝰ\n╰┈➤ *JOKI RANKED*\n\n───\nEpic 10⭐ : 60K\nLegend 10⭐ : 70K\nMytic 10⭐ : 100K\nHonor 10⭐ : 100K\nGlory 10⭐ : 150K\nImo : (chat admin)\n\nnote:\n✎ *pengerjaan sesuai antrian*\n✎ *bebas req hero (max 3)*\n✎ *wajib ss bukti tf*\n✎ *no bukti = HANGUS!*\n\n─── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──",
-            "img": "",
-            "video": ""
-          },
-          "link sociabuzz": {
-            "key": "link sociabuzz",
-            "response": "+ ─── ⋆⋅☆⋅⋆ ───`ᝰ\n╰┈➤ *LINK SOCIABUZZ ROOMTOUR PIIU* \n\n── *LINK* : https://bit.ly/4gvb2c5\n\n*mulai oktober ROOMTOUR PIU hanya menggunakan 1 link* \n─── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ─",
-            "img": "",
-            "video": ""
-          },
-          "celens rt": {
-            "key": "celens rt",
-            "response": "+ ─── ⋆⋅☆⋅⋆ ───`ᝰ\n╰┈➤ *CHALLENGE*\n\n☘️ savage bawah menit 10 dan end menit 15 : 25k \n\n─── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──",
-            "img": "",
-            "video": ""
-          },
-          "top bulanan oktober": {
-            "key": "top bulanan oktober",
-            "response": "+ ─── ⋆⋅☆⋅⋆ ───`ᝰ\n╰┈➤ *BENEFIT PERBULAN*\n*khusus oktober*\n───\n─ top donet 1-2-3 free SL \n- top donet di atas 1 jt SL prem \n- ⁠top donet bawah 1jt SL basic \n─ top viewers 1 -2free SL basic ( tanpa gacha ) \n— top viewers 3 - 10 free 20 slot \n( di gacha utk 1 org ) \n\n─ membership free 2 wdp \n( gacha utk 2 org )\n\n─── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──",
-            "img": "",
-            "video": ""
-          },
-          "rt private": {
-            "key": "rt private",
-            "response": "+ ─── ⋆⋅☆⋅⋆ ───`ᝰ\n╰┈➤ *SEWA ROOMTOUR PRIVATE ( UNTUK 10 orang)*\n\n*PRICE LIST PER MATCH*\n➡️ 1 MATCH : 25K\n➡️ 2 MATCH : 50k \n➡️ 3 MATCH : 70k \n➡️ 5 MATCH : 110k \n\n🔥*RULES ORDERAN PER MATCH* 🔥\n- batas waktu tunggu lobby 5 menit (jika sudah 5 menit dan belum full kami play se adanya ) jadi *pastikan tim ready sebelum match* \n- untuk konten ( ss ingame ) batas ingame 20 menit wajib suren \n- ⁠ untuk main normal batas 25 menit ingame wajib suren \n\n*PRICE LIST PER JAM*\n👉 *1 jam* : 40K\n👉 *2 jam* : 75k \n👉 *3 jam* : 110k\n👉 *5 jam* : 175k\n\n🔥 *RULES ORDERAN PER JAM* \n- jika order 1 jam contoh order jam 19:00 maka jam 20:00 harus selesei/out lobby \n- ⁠patokan menggunakan jam ( tidak ada batas tunggu lobby dan tidak wajib suren kecuali melebihi waktu sewa ) \n\n*HARGA SPESIAL SETIAP HARI MAIN DI JAM 17:00 - 19:00 WIB ( 2 jam ) HANYA 50k* \n\n☘️ BO 3 : 2 jam \n☘️ BO 5 : 3jam \n\nnote!\n✎ *tanyakan slot terlebih dahulu* (jangan asal tf)\n✎ re schdule maks 5 jam sebelum jam order \n( CANCEL DADAKAN = HANGUS ) \n\n─── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──\n*Testi*\ninstagram : https://www.instagram.com/roomtourmlbb_/profilecard/?igsh=bDF5MWNjMWE2aGZ2\n*TIKTOK* : roomtourmlbb_",
-            "img": "",
-            "video": ""
-          },
-          "payment": {
-            "key": "payment",
-            "response": "+ ─── ⋆⋅☆⋅⋆ ───`ᝰ\n╰┈➤ *PAYMENT*\n\n───\n─ *Dana / gopay* : 083125232499 a/ nawafi\n─ Qris di atas\n\nnote:\n✎ *dana / gopay only yang diatas*\n✎ *jika sudah tf kirim bukti tf*\n✎ *no bukti = HANGUS!*\n\n─── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──",
-            "img": "",
-            "video": ""
-          },
-          "rt solo": {
-            "key": "rt solo",
-            "response": "+ ─── ⋆⋅☆⋅⋆ ───`ᝰ\n╰┈➤ *SEWA ROOMTOUR SOLO PLAYER*\n\n───\n✎ *(Booking di live)*\nTiktok : www.tiktok.com/@roomtourmlbb_\n\n─ 50 koin \n─ 3k permatch / 5k 2match \n─ membership ( berlogo “mimo” ) 2k permatch *bisa di simpan sampai tgl 30 setiap bulan*\n─ VVIP ( tanpa reset slot/hangus )\nsyarat VVIP : *pembelian slot 500k pertama sudah masuk VVIP sampe moonton bangkrut.*\n\n─── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──",
-            "img": "",
-            "video": ""
-          },
-          "sewabot": {
-            "key": "sewabot",
-            "response": "`PRINCE LIST SEWA BOT`\n *ALYA OFFICIAL*\n\n> Rp _~120.000~_ *Rp100.000* Permanent\n> Rp _~30.000~_ *Rp 25.000* /bulan + 20 hari + Prem bot 1 bulan\n> Rp _~20.000~_ *Rp 15.000* /bulan + Prem bot 15 day/hari\n> Rp _~10.000~_ *Rp 5.000* 14 hari\n\n`PRINCE LIST BUYPREM/VIP BOT`\n *ALYA OFFICIAL*\n\n> *Rp 10.000* /bulan\n> *Rp 5.000* 14 hari\n\nKelebihan?bisa gunain fitur bot yang VIP/PREMIUM!!!\nMinat?chat me wa.me/62881011126502",
-            "img": "",
-            "video": ""
-          },
-          "dc": {
-            "key": "dc",
-            "response": "https://discord.gg/ubS6nbDr",
-            "img": "",
-            "video": ""
-          }
-        },
         "nsfw": false
       },
       "6288213679571@s.whatsapp.net": {
@@ -16131,7 +16304,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "120363276185090025@newsletter": {
@@ -16166,7 +16338,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "120363022488688766@g.us": {
@@ -16201,7 +16372,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "120363298676462823@g.us": {
@@ -16236,14 +16406,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {
-          "sewabot": {
-            "key": "sewabot",
-            "response": "`PRINCE LIST SEWA BOT`\n *ALYA OFFICIAL*\n\n> Rp _~120.000~_ *Rp100.000* Permanent\n> Rp _~30.000~_ *Rp 25.000* /bulan + 20 hari + Prem bot 1 bulan\n> Rp _~20.000~_ *Rp 15.000* /bulan + Prem bot 15 day/hari\n> Rp _~10.000~_ *Rp 5.000* 14 hari\n\n`PRINCE LIST BUYPREM/VIP BOT`\n *ALYA OFFICIAL*\n\n> *Rp 10.000* /bulan\n> *Rp 5.000* 14 hari\n\nKelebihan?bisa gunain fitur bot yang VIP/PREMIUM!!!\nDan Bisa Menggunakan Bot Secara Pribadi!!\nMinat?chat me wa.me/62881011126502",
-            "img": "",
-            "video": ""
-          }
-        },
         "nsfw": false
       },
       "6281287841832@s.whatsapp.net": {
@@ -16278,7 +16440,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6285776202765@s.whatsapp.net": {
@@ -16313,7 +16474,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "120363211401067741@g.us": {
@@ -16348,7 +16508,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "120363160062794826@g.us": {
@@ -16383,7 +16542,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "120363315460876535@g.us": {
@@ -16418,14 +16576,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {
-          "sewabot": {
-            "key": "sewabot",
-            "response": "`PRINCE LIST SEWA BOT`\n *ALYA OFFICIAL*\n\n> Rp _~120.000~_ *Rp100.000* Permanent\n> Rp _~30.000~_ *Rp 25.000* /bulan + 20 hari + Prem bot 1 bulan\n> Rp _~20.000~_ *Rp 15.000* /bulan + Prem bot 15 day/hari\n> Rp _~10.000~_ *Rp 5.000* 14 hari\n\n`PRINCE LIST BUYPREM/VIP BOT`\n *ALYA OFFICIAL*\n\n> *Rp 10.000* /bulan\n> *Rp 5.000* 14 hari\n\nKelebihan?bisa gunain fitur bot yang VIP/PREMIUM!!!\nMinat?chat me wa.me/62881011126502",
-            "img": "",
-            "video": ""
-          }
-        },
         "nsfw": false
       },
       "120363187417235323@g.us": {
@@ -16460,7 +16610,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "120363343777452508@g.us": {
@@ -16495,7 +16644,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "120363144367455548@g.us": {
@@ -16530,7 +16678,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "120363249362154243@g.us": {
@@ -16565,7 +16712,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6285822485331@s.whatsapp.net": {
@@ -16600,7 +16746,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6285772709402@s.whatsapp.net": {
@@ -16635,7 +16780,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "120363181086142030@g.us": {
@@ -16670,7 +16814,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6289636524032@s.whatsapp.net": {
@@ -16705,7 +16848,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6283826762640@s.whatsapp.net": {
@@ -16740,7 +16882,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "120363022300422910@g.us": {
@@ -16775,7 +16916,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6285772640452@s.whatsapp.net": {
@@ -16810,7 +16950,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6288225260386@s.whatsapp.net": {
@@ -16845,7 +16984,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "120363316862285224@g.us": {
@@ -16880,7 +17018,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6288210964385@s.whatsapp.net": {
@@ -16915,7 +17052,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "120363325883717262@g.us": {
@@ -16950,7 +17086,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6288290139318@s.whatsapp.net": {
@@ -16985,7 +17120,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6285703063778@s.whatsapp.net": {
@@ -17020,7 +17154,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6285925767084@s.whatsapp.net": {
@@ -17055,7 +17188,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "62895376415328@s.whatsapp.net": {
@@ -17090,7 +17222,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6282123422092@s.whatsapp.net": {
@@ -17125,7 +17256,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6281382785840@s.whatsapp.net": {
@@ -17160,7 +17290,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "120363328386068974@g.us": {
@@ -17195,7 +17324,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "120363345820199650@g.us": {
@@ -17230,7 +17358,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": true
       },
       "6282284261371@s.whatsapp.net": {
@@ -17265,7 +17392,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6282128590789@s.whatsapp.net": {
@@ -17300,7 +17426,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6282218728469@s.whatsapp.net": {
@@ -17335,7 +17460,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6288274137594@s.whatsapp.net": {
@@ -17370,7 +17494,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6281393661478@s.whatsapp.net": {
@@ -17405,7 +17528,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "120363151138245526@g.us": {
@@ -17440,7 +17562,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "120363286302821776@newsletter": {
@@ -17475,7 +17596,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "120363306815760058@g.us": {
@@ -17510,7 +17630,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "120363297640493245@g.us": {
@@ -17545,7 +17664,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "120363303125391729@newsletter": {
@@ -17580,7 +17698,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6288987400331@s.whatsapp.net": {
@@ -17615,7 +17732,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6285846216849@s.whatsapp.net": {
@@ -17650,7 +17766,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6281918739023@s.whatsapp.net": {
@@ -17685,7 +17800,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6282179579569@s.whatsapp.net": {
@@ -17720,7 +17834,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "120363257839692781@newsletter": {
@@ -17755,7 +17868,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "628978794886@s.whatsapp.net": {
@@ -17790,7 +17902,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6288211018267@s.whatsapp.net": {
@@ -17825,7 +17936,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "120363334295193451@g.us": {
@@ -17860,7 +17970,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6285387894924@s.whatsapp.net": {
@@ -17895,7 +18004,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6282281678243@s.whatsapp.net": {
@@ -17930,7 +18038,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6288225874190@s.whatsapp.net": {
@@ -17965,7 +18072,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6281294645869@s.whatsapp.net": {
@@ -18000,7 +18106,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6287741027374@s.whatsapp.net": {
@@ -18035,7 +18140,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "120363215934597895@g.us": {
@@ -18070,7 +18174,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "62895384768947@s.whatsapp.net": {
@@ -18105,7 +18208,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6289630255672@s.whatsapp.net": {
@@ -18140,7 +18242,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6282383121859@s.whatsapp.net": {
@@ -18175,7 +18276,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6285218262218@s.whatsapp.net": {
@@ -18210,7 +18310,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6283184640286@s.whatsapp.net": {
@@ -18245,7 +18344,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6282332299071@s.whatsapp.net": {
@@ -18280,7 +18378,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "601124403521@s.whatsapp.net": {
@@ -18315,7 +18412,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6289529610008@s.whatsapp.net": {
@@ -18350,7 +18446,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6283181367888@s.whatsapp.net": {
@@ -18385,7 +18480,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6282377968328@s.whatsapp.net": {
@@ -18420,7 +18514,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6282340215375@s.whatsapp.net": {
@@ -18455,7 +18548,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6285797214893@s.whatsapp.net": {
@@ -18490,7 +18582,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "62859117267359@s.whatsapp.net": {
@@ -18525,7 +18616,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6281313262675@s.whatsapp.net": {
@@ -18560,7 +18650,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6285797225168@s.whatsapp.net": {
@@ -18595,7 +18684,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "628999407635@s.whatsapp.net": {
@@ -18630,7 +18718,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6281393768925@s.whatsapp.net": {
@@ -18665,7 +18752,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "62895340565664@s.whatsapp.net": {
@@ -18700,7 +18786,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6281217269585@s.whatsapp.net": {
@@ -18735,7 +18820,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "62895339134949@s.whatsapp.net": {
@@ -18770,7 +18854,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6285374168310@s.whatsapp.net": {
@@ -18805,7 +18888,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6283138234898@s.whatsapp.net": {
@@ -18840,7 +18922,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "62857394099735@s.whatsapp.net": {
@@ -18875,7 +18956,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "120363333385509368@g.us": {
@@ -18910,7 +18990,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6288708377578@s.whatsapp.net": {
@@ -18945,7 +19024,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6281319140686@s.whatsapp.net": {
@@ -18980,7 +19058,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6282154176219@s.whatsapp.net": {
@@ -19015,7 +19092,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6287840354426@s.whatsapp.net": {
@@ -19050,7 +19126,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "62882015707776@s.whatsapp.net": {
@@ -19085,7 +19160,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6281293857713@s.whatsapp.net": {
@@ -19120,7 +19194,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6283842334964@s.whatsapp.net": {
@@ -19155,7 +19228,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6282254524732@s.whatsapp.net": {
@@ -19190,7 +19262,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6282291752737@s.whatsapp.net": {
@@ -19225,7 +19296,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6282161301125@s.whatsapp.net": {
@@ -19260,7 +19330,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6285824683879@s.whatsapp.net": {
@@ -19295,7 +19364,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6289601232133@s.whatsapp.net": {
@@ -19330,7 +19398,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "12053503467@s.whatsapp.net": {
@@ -19365,7 +19432,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6283837211245@s.whatsapp.net": {
@@ -19400,7 +19466,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6285845699894@s.whatsapp.net": {
@@ -19435,7 +19500,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6285397064488@s.whatsapp.net": {
@@ -19470,7 +19534,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "120363352980328306@g.us": {
@@ -19505,7 +19568,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6283833647065@s.whatsapp.net": {
@@ -19540,7 +19602,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6281367184162@s.whatsapp.net": {
@@ -19575,7 +19636,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6285943626274@s.whatsapp.net": {
@@ -19610,7 +19670,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "120363335377869152@newsletter": {
@@ -19645,7 +19704,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6285600900853@s.whatsapp.net": {
@@ -19680,7 +19738,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "120363189452846073@g.us": {
@@ -19715,7 +19772,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6283137099719@s.whatsapp.net": {
@@ -19750,7 +19806,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6288742516365@s.whatsapp.net": {
@@ -19785,7 +19840,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "120363027799735295@g.us": {
@@ -19820,7 +19874,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6281578234794@s.whatsapp.net": {
@@ -19855,7 +19908,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6285895005121@s.whatsapp.net": {
@@ -19890,7 +19942,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "120363276466338792@g.us": {
@@ -19925,7 +19976,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6285969081335@s.whatsapp.net": {
@@ -19960,7 +20010,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6285263342605@s.whatsapp.net": {
@@ -19995,7 +20044,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6289604320000@s.whatsapp.net": {
@@ -20030,7 +20078,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "120363207167533510@g.us": {
@@ -20065,7 +20112,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6282157202859@s.whatsapp.net": {
@@ -20100,7 +20146,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6285728151348@s.whatsapp.net": {
@@ -20135,7 +20180,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "120363352882750764@g.us": {
@@ -20170,32 +20214,6 @@
         "setopen": false,
         "setleft": "bye jamet infinity society",
         "setwelcome": "welcome ganteng/cantik di infinity society",
-        "liststore": {
-          "idsq": {
-            "key": "idsq",
-            "response": "ID SQ\n• -\n• DIV 2 ( 9035788 )\n• DIV 3 ( 9062408 )",
-            "img": "",
-            "video": ""
-          },
-          "cn": {
-            "key": "cn",
-            "response": "cn:\n𝐢𝐧𝐟𝐢𝐧𝐢𝐭𝐲, ( nama )\nbio:\n𝗽𝗮𝗿𝘁 𝗼𝗳 𝗶𝗻𝗳𝗶𝗻𝗶𝘁𝘆 𝘀𝗼𝗰𝗶𝗲𝘁𝘆\nfollow akun tiktok ofc:\n@ofc.infinity",
-            "img": "https://pomf2.lain.la/f/felohgkw.jpg",
-            "video": ""
-          },
-          "poster1": {
-            "key": "poster1",
-            "response": "https://chat.whatsapp.com/IBfEoybpSZIITHAJhqYDFc",
-            "img": "https://pomf2.lain.la/f/x6z5j59r.jpg",
-            "video": ""
-          },
-          "poster2": {
-            "key": "poster2",
-            "response": "https://chat.whatsapp.com/IBfEoybpSZIITHAJhqYDFc",
-            "img": "https://pomf2.lain.la/f/4ayos1kt.jpg",
-            "video": ""
-          }
-        },
         "nsfw": false
       },
       "6287705454896@s.whatsapp.net": {
@@ -20230,7 +20248,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6283853942435@s.whatsapp.net": {
@@ -20265,7 +20282,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6283148157271@s.whatsapp.net": {
@@ -20300,7 +20316,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6283865576633@s.whatsapp.net": {
@@ -20335,7 +20350,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6288294939019@s.whatsapp.net": {
@@ -20370,7 +20384,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "120363338389223649@newsletter": {
@@ -20405,7 +20418,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6283125232499@s.whatsapp.net": {
@@ -20440,7 +20452,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6289674595761@s.whatsapp.net": {
@@ -20475,7 +20486,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6285724126975@s.whatsapp.net": {
@@ -20510,7 +20520,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6283898594330@s.whatsapp.net": {
@@ -20545,7 +20554,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "628889744585@s.whatsapp.net": {
@@ -20580,7 +20588,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "62895415497664@s.whatsapp.net": {
@@ -20615,7 +20622,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6285695944454@s.whatsapp.net": {
@@ -20650,7 +20656,6 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
         "nsfw": false
       },
       "6285748081844@s.whatsapp.net": {
@@ -20685,7 +20690,40 @@
         "setopen": false,
         "setleft": false,
         "setwelcome": false,
-        "liststore": {},
+        "nsfw": false
+      },
+      "6282245228288@s.whatsapp.net": {
+        "goodbye": false,
+        "welcome": false,
+        "antilink": false,
+        "antibot": false,
+        "antibot2": false,
+        "antilinktt": false,
+        "antiaudio": false,
+        "antisticker": false,
+        "antiimage": false,
+        "antivideo": false,
+        "antidocument": false,
+        "antitoxic": false,
+        "antivirtex": false,
+        "antipromosi": false,
+        "antiwame": false,
+        "antiwame2": false,
+        "antipolling": false,
+        "antilinkall": false,
+        "antilink2": false,
+        "autodl": false,
+        "autoaigc": false,
+        "autoaipc": false,
+        "kickme": false,
+        "keamanan": false,
+        "mute": false,
+        "setproses": false,
+        "setdone": false,
+        "setclose": false,
+        "setopen": false,
+        "setleft": false,
+        "setwelcome": false,
         "nsfw": false
       }
     },
@@ -22481,38 +22519,38 @@
         "kapal": true,
         "darahkapal": 100,
         "pickaxe": true,
-        "darahpickaxe": 0,
+        "darahpickaxe": 100,
         "kapak": true,
-        "darahkapak": 20,
+        "darahkapak": 0,
         "bzirah": true,
         "darahbzirah": 100,
         "pedang": true,
         "darahpedang": 100,
-        "darahuser": 0,
+        "darahuser": 80,
         "rumah": 1,
-        "besi": 44,
-        "kayu": 62,
-        "emas": 1,
-        "perak": 6,
-        "batubara": 6,
-        "bulu": 0.5,
+        "besi": 53,
+        "kayu": 71,
+        "emas": 0,
+        "perak": 0,
+        "batubara": 0,
+        "bulu": 6,
         "kain": 0,
-        "wilayah": "kanada",
+        "wilayah": "rusia",
         "wilayahrumah": "indonesia",
         "musuh": 0,
         "ikan": 0,
         "domba": 0,
-        "sapi": 11,
-        "ayam": 9,
-        "bank": 588525,
-        "burutime": 1730353474493,
+        "sapi": 13,
+        "ayam": 0,
+        "bank": 646217,
+        "burutime": 1730374863317,
         "lastclaim": 0,
         "lastdagang": 0,
         "lastbansos": 0,
-        "lastkerja": 1730338643447,
+        "lastkerja": 1730375014500,
         "lastrampok": 1730264311278,
-        "rank": null,
-        "saldo": null
+        "rank": 72,
+        "saldo": 1888
       },
       "6281242222394@s.whatsapp.net": {
         "kapal": false,
@@ -36921,17 +36959,17 @@
         "emas": 0,
         "perak": 0,
         "batubara": 0,
-        "bulu": 0,
+        "bulu": 10,
         "kain": 0,
         "wilayah": "indonesia",
         "wilayahrumah": "indonesia",
         "musuh": 0,
         "ikan": 0,
-        "domba": 0,
-        "sapi": 0,
-        "ayam": 0,
-        "bank": 0,
-        "burutime": 0,
+        "domba": 9,
+        "sapi": 9,
+        "ayam": 2,
+        "bank": 14812912,
+        "burutime": 1730374949034,
         "lastclaim": 0,
         "lastdagang": 0,
         "lastbansos": 0,
@@ -46671,6 +46709,426 @@
         "lastrampok": 0
       },
       "6287743757373@s.whatsapp.net": {
+        "kapal": false,
+        "darahkapal": 100,
+        "pickaxe": false,
+        "darahpickaxe": 100,
+        "kapak": false,
+        "darahkapak": 100,
+        "bzirah": false,
+        "darahbzirah": 100,
+        "pedang": false,
+        "darahpedang": 100,
+        "darahuser": 100,
+        "rumah": 0,
+        "besi": 4,
+        "kayu": 2,
+        "emas": 0,
+        "perak": 0,
+        "batubara": 0,
+        "bulu": 0,
+        "kain": 0,
+        "wilayah": "indonesia",
+        "wilayahrumah": "indonesia",
+        "musuh": 0,
+        "ikan": 0,
+        "domba": 0,
+        "sapi": 0,
+        "ayam": 0,
+        "bank": 0,
+        "burutime": 0,
+        "lastclaim": 0,
+        "lastdagang": 0,
+        "lastbansos": 0,
+        "lastkerja": 0,
+        "lastrampok": 0
+      },
+      "6289601404904@s.whatsapp.net": {
+        "kapal": false,
+        "darahkapal": 100,
+        "pickaxe": false,
+        "darahpickaxe": 100,
+        "kapak": false,
+        "darahkapak": 100,
+        "bzirah": false,
+        "darahbzirah": 100,
+        "pedang": false,
+        "darahpedang": 100,
+        "darahuser": 100,
+        "rumah": 0,
+        "besi": 4,
+        "kayu": 2,
+        "emas": 0,
+        "perak": 0,
+        "batubara": 0,
+        "bulu": 0,
+        "kain": 0,
+        "wilayah": "indonesia",
+        "wilayahrumah": "indonesia",
+        "musuh": 0,
+        "ikan": 0,
+        "domba": 0,
+        "sapi": 0,
+        "ayam": 0,
+        "bank": 0,
+        "burutime": 0,
+        "lastclaim": 0,
+        "lastdagang": 0,
+        "lastbansos": 0,
+        "lastkerja": 0,
+        "lastrampok": 0
+      },
+      "6285142696114@s.whatsapp.net": {
+        "kapal": false,
+        "darahkapal": 100,
+        "pickaxe": false,
+        "darahpickaxe": 100,
+        "kapak": false,
+        "darahkapak": 100,
+        "bzirah": false,
+        "darahbzirah": 100,
+        "pedang": false,
+        "darahpedang": 100,
+        "darahuser": 100,
+        "rumah": 0,
+        "besi": 4,
+        "kayu": 2,
+        "emas": 0,
+        "perak": 0,
+        "batubara": 0,
+        "bulu": 0,
+        "kain": 0,
+        "wilayah": "indonesia",
+        "wilayahrumah": "indonesia",
+        "musuh": 0,
+        "ikan": 0,
+        "domba": 0,
+        "sapi": 0,
+        "ayam": 0,
+        "bank": 0,
+        "burutime": 0,
+        "lastclaim": 0,
+        "lastdagang": 0,
+        "lastbansos": 0,
+        "lastkerja": 0,
+        "lastrampok": 0
+      },
+      "6283132963885@s.whatsapp.net": {
+        "kapal": false,
+        "darahkapal": 100,
+        "pickaxe": false,
+        "darahpickaxe": 100,
+        "kapak": false,
+        "darahkapak": 100,
+        "bzirah": false,
+        "darahbzirah": 100,
+        "pedang": false,
+        "darahpedang": 100,
+        "darahuser": 100,
+        "rumah": 0,
+        "besi": 4,
+        "kayu": 2,
+        "emas": 0,
+        "perak": 0,
+        "batubara": 0,
+        "bulu": 0,
+        "kain": 0,
+        "wilayah": "indonesia",
+        "wilayahrumah": "indonesia",
+        "musuh": 0,
+        "ikan": 0,
+        "domba": 0,
+        "sapi": 0,
+        "ayam": 0,
+        "bank": 0,
+        "burutime": 0,
+        "lastclaim": 0,
+        "lastdagang": 0,
+        "lastbansos": 0,
+        "lastkerja": 0,
+        "lastrampok": 0
+      },
+      "62895418268190@s.whatsapp.net": {
+        "kapal": false,
+        "darahkapal": 100,
+        "pickaxe": false,
+        "darahpickaxe": 100,
+        "kapak": false,
+        "darahkapak": 100,
+        "bzirah": false,
+        "darahbzirah": 100,
+        "pedang": false,
+        "darahpedang": 100,
+        "darahuser": 100,
+        "rumah": 0,
+        "besi": 4,
+        "kayu": 2,
+        "emas": 0,
+        "perak": 0,
+        "batubara": 0,
+        "bulu": 0,
+        "kain": 0,
+        "wilayah": "indonesia",
+        "wilayahrumah": "indonesia",
+        "musuh": 0,
+        "ikan": 0,
+        "domba": 0,
+        "sapi": 0,
+        "ayam": 0,
+        "bank": 0,
+        "burutime": 0,
+        "lastclaim": 0,
+        "lastdagang": 0,
+        "lastbansos": 0,
+        "lastkerja": 0,
+        "lastrampok": 0
+      },
+      "6282245228288@s.whatsapp.net": {
+        "kapal": false,
+        "darahkapal": 100,
+        "pickaxe": false,
+        "darahpickaxe": 100,
+        "kapak": false,
+        "darahkapak": 100,
+        "bzirah": false,
+        "darahbzirah": 100,
+        "pedang": false,
+        "darahpedang": 100,
+        "darahuser": 100,
+        "rumah": 0,
+        "besi": 4,
+        "kayu": 2,
+        "emas": 0,
+        "perak": 0,
+        "batubara": 0,
+        "bulu": 0,
+        "kain": 0,
+        "wilayah": "indonesia",
+        "wilayahrumah": "indonesia",
+        "musuh": 0,
+        "ikan": 0,
+        "domba": 0,
+        "sapi": 0,
+        "ayam": 0,
+        "bank": 0,
+        "burutime": 0,
+        "lastclaim": 0,
+        "lastdagang": 0,
+        "lastbansos": 0,
+        "lastkerja": 0,
+        "lastrampok": 0
+      },
+      "62895422354894@s.whatsapp.net": {
+        "kapal": false,
+        "darahkapal": 100,
+        "pickaxe": false,
+        "darahpickaxe": 100,
+        "kapak": false,
+        "darahkapak": 100,
+        "bzirah": false,
+        "darahbzirah": 100,
+        "pedang": false,
+        "darahpedang": 100,
+        "darahuser": 100,
+        "rumah": 0,
+        "besi": 4,
+        "kayu": 2,
+        "emas": 0,
+        "perak": 0,
+        "batubara": 0,
+        "bulu": 0,
+        "kain": 0,
+        "wilayah": "indonesia",
+        "wilayahrumah": "indonesia",
+        "musuh": 0,
+        "ikan": 0,
+        "domba": 0,
+        "sapi": 0,
+        "ayam": 0,
+        "bank": 0,
+        "burutime": 0,
+        "lastclaim": 0,
+        "lastdagang": 0,
+        "lastbansos": 0,
+        "lastkerja": 0,
+        "lastrampok": 0
+      },
+      "62895336700761@s.whatsapp.net": {
+        "kapal": false,
+        "darahkapal": 100,
+        "pickaxe": false,
+        "darahpickaxe": 100,
+        "kapak": false,
+        "darahkapak": 100,
+        "bzirah": false,
+        "darahbzirah": 100,
+        "pedang": false,
+        "darahpedang": 100,
+        "darahuser": 100,
+        "rumah": 0,
+        "besi": 4,
+        "kayu": 2,
+        "emas": 0,
+        "perak": 0,
+        "batubara": 0,
+        "bulu": 0,
+        "kain": 0,
+        "wilayah": "indonesia",
+        "wilayahrumah": "indonesia",
+        "musuh": 0,
+        "ikan": 0,
+        "domba": 0,
+        "sapi": 0,
+        "ayam": 0,
+        "bank": 0,
+        "burutime": 0,
+        "lastclaim": 0,
+        "lastdagang": 0,
+        "lastbansos": 0,
+        "lastkerja": 0,
+        "lastrampok": 0
+      },
+      "6282119900908@s.whatsapp.net": {
+        "kapal": false,
+        "darahkapal": 100,
+        "pickaxe": false,
+        "darahpickaxe": 100,
+        "kapak": false,
+        "darahkapak": 100,
+        "bzirah": false,
+        "darahbzirah": 100,
+        "pedang": false,
+        "darahpedang": 100,
+        "darahuser": 100,
+        "rumah": 0,
+        "besi": 4,
+        "kayu": 2,
+        "emas": 0,
+        "perak": 0,
+        "batubara": 0,
+        "bulu": 0,
+        "kain": 0,
+        "wilayah": "indonesia",
+        "wilayahrumah": "indonesia",
+        "musuh": 0,
+        "ikan": 0,
+        "domba": 0,
+        "sapi": 0,
+        "ayam": 0,
+        "bank": 0,
+        "burutime": 0,
+        "lastclaim": 0,
+        "lastdagang": 0,
+        "lastbansos": 0,
+        "lastkerja": 0,
+        "lastrampok": 0
+      },
+      "6285524795080@s.whatsapp.net": {
+        "kapal": false,
+        "darahkapal": 100,
+        "pickaxe": false,
+        "darahpickaxe": 100,
+        "kapak": false,
+        "darahkapak": 100,
+        "bzirah": false,
+        "darahbzirah": 100,
+        "pedang": false,
+        "darahpedang": 100,
+        "darahuser": 100,
+        "rumah": 0,
+        "besi": 4,
+        "kayu": 2,
+        "emas": 0,
+        "perak": 0,
+        "batubara": 0,
+        "bulu": 0,
+        "kain": 0,
+        "wilayah": "indonesia",
+        "wilayahrumah": "indonesia",
+        "musuh": 0,
+        "ikan": 0,
+        "domba": 0,
+        "sapi": 0,
+        "ayam": 0,
+        "bank": 0,
+        "burutime": 0,
+        "lastclaim": 0,
+        "lastdagang": 0,
+        "lastbansos": 0,
+        "lastkerja": 0,
+        "lastrampok": 0
+      },
+      "6281217370331@s.whatsapp.net": {
+        "kapal": false,
+        "darahkapal": 100,
+        "pickaxe": false,
+        "darahpickaxe": 100,
+        "kapak": false,
+        "darahkapak": 100,
+        "bzirah": false,
+        "darahbzirah": 100,
+        "pedang": false,
+        "darahpedang": 100,
+        "darahuser": 100,
+        "rumah": 0,
+        "besi": 4,
+        "kayu": 2,
+        "emas": 0,
+        "perak": 0,
+        "batubara": 0,
+        "bulu": 0,
+        "kain": 0,
+        "wilayah": "indonesia",
+        "wilayahrumah": "indonesia",
+        "musuh": 0,
+        "ikan": 0,
+        "domba": 0,
+        "sapi": 0,
+        "ayam": 0,
+        "bank": 0,
+        "burutime": 0,
+        "lastclaim": 0,
+        "lastdagang": 0,
+        "lastbansos": 0,
+        "lastkerja": 0,
+        "lastrampok": 0
+      },
+      "6283843816575@s.whatsapp.net": {
+        "kapal": false,
+        "darahkapal": 100,
+        "pickaxe": false,
+        "darahpickaxe": 100,
+        "kapak": false,
+        "darahkapak": 100,
+        "bzirah": false,
+        "darahbzirah": 100,
+        "pedang": false,
+        "darahpedang": 100,
+        "darahuser": 100,
+        "rumah": 0,
+        "besi": 4,
+        "kayu": 2,
+        "emas": 0,
+        "perak": 0,
+        "batubara": 0,
+        "bulu": 0,
+        "kain": 0,
+        "wilayah": "indonesia",
+        "wilayahrumah": "indonesia",
+        "musuh": 0,
+        "ikan": 0,
+        "domba": 0,
+        "sapi": 0,
+        "ayam": 0,
+        "bank": 0,
+        "burutime": 0,
+        "lastclaim": 0,
+        "lastdagang": 0,
+        "lastbansos": 0,
+        "lastkerja": 0,
+        "lastrampok": 0
+      },
+      "6283808666216@s.whatsapp.net": {
         "kapal": false,
         "darahkapal": 100,
         "pickaxe": false,
