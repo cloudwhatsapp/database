@@ -11439,7 +11439,7 @@
         "nsfw": false
       },
       "120363325874389044@g.us": {
-        "goodbye": false,
+        "goodbye": true,
         "welcome": true,
         "antilink": false,
         "antibot": false,
