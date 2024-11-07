@@ -1456,7 +1456,7 @@
         "limit": 99,
         "coins": 0,
         "saldo": 0,
-        "exp": 823,
+        "exp": 832,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -1524,9 +1524,9 @@
         "glimit": 15,
         "limit": 94,
         "coins": 0,
-        "saldo": 500,
-        "exp": 637,
-        "rank": 741,
+        "saldo": 750,
+        "exp": 678,
+        "rank": 757,
         "antilinkcount": 0,
         "toxiccount": 0,
         "level": 0,
@@ -1604,7 +1604,13 @@
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
-        "level": 0
+        "level": 0,
+        "banned": false,
+        "blacklist": false,
+        "whitelist": false,
+        "afkReason": "",
+        "afkTime": -1,
+        "premiumExpiry": 0
       },
       "6282158307003@s.whatsapp.net": {
         "rpg": false,
@@ -1673,7 +1679,13 @@
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
-        "level": 0
+        "level": 0,
+        "banned": false,
+        "blacklist": false,
+        "whitelist": false,
+        "afkReason": "",
+        "afkTime": -1,
+        "premiumExpiry": 0
       },
       "6282288303349@s.whatsapp.net": {
         "rpg": false,
@@ -1733,11 +1745,11 @@
         "pacar": "",
         "askot": "jakarta",
         "umur": 0,
-        "glimit": 3919,
+        "glimit": 3918,
         "limit": 1,
         "coins": 0,
         "saldo": 16750,
-        "exp": 1713,
+        "exp": 1719,
         "rank": 2007,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -6917,7 +6929,9 @@
         "lastdagang": 0,
         "lastbansos": 0,
         "lastkerja": 0,
-        "lastrampok": 0
+        "lastrampok": 0,
+        "mingguanExpiry": 0,
+        "bulananExpiry": 0
       },
       "6282158307003@s.whatsapp.net": {
         "kapal": false,
@@ -7024,7 +7038,9 @@
         "lastdagang": 0,
         "lastbansos": 0,
         "lastkerja": 0,
-        "lastrampok": 0
+        "lastrampok": 0,
+        "mingguanExpiry": 0,
+        "bulananExpiry": 0
       },
       "6282288303349@s.whatsapp.net": {
         "kapal": false,
