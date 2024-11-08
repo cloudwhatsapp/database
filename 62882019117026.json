@@ -1846,7 +1846,13 @@
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
-        "level": 0
+        "level": 0,
+        "banned": false,
+        "blacklist": false,
+        "whitelist": false,
+        "afkReason": "",
+        "afkTime": -1,
+        "premiumExpiry": 0
       },
       "628988188651@s.whatsapp.net": {
         "rpg": false,
@@ -1909,7 +1915,13 @@
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
-        "level": 0
+        "level": 0,
+        "banned": false,
+        "blacklist": false,
+        "whitelist": false,
+        "afkReason": "",
+        "afkTime": -1,
+        "premiumExpiry": 0
       },
       "6285654845563@s.whatsapp.net": {
         "rpg": false,
@@ -2265,7 +2277,13 @@
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
-        "level": 0
+        "level": 0,
+        "banned": false,
+        "blacklist": false,
+        "whitelist": false,
+        "afkReason": "",
+        "afkTime": -1,
+        "premiumExpiry": 0
       },
       "6289530159750@s.whatsapp.net": {
         "rpg": false,
@@ -7280,7 +7298,9 @@
         "lastdagang": 0,
         "lastbansos": 0,
         "lastkerja": 0,
-        "lastrampok": 0
+        "lastrampok": 0,
+        "mingguanExpiry": 0,
+        "bulananExpiry": 0
       },
       "628988188651@s.whatsapp.net": {
         "kapal": false,
@@ -7385,7 +7405,9 @@
         "lastdagang": 0,
         "lastbansos": 0,
         "lastkerja": 0,
-        "lastrampok": 0
+        "lastrampok": 0,
+        "mingguanExpiry": 0,
+        "bulananExpiry": 0
       },
       "6285654845563@s.whatsapp.net": {
         "kapal": false,
@@ -7924,7 +7946,9 @@
         "lastdagang": 0,
         "lastbansos": 0,
         "lastkerja": 0,
-        "lastrampok": 0
+        "lastrampok": 0,
+        "mingguanExpiry": 0,
+        "bulananExpiry": 0
       },
       "6289530159750@s.whatsapp.net": {
         "kapal": false,
