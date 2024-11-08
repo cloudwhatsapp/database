@@ -1456,7 +1456,7 @@
         "limit": 99,
         "coins": 0,
         "saldo": 0,
-        "exp": 868,
+        "exp": 898,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -2304,7 +2304,13 @@
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
-        "level": 0
+        "level": 0,
+        "banned": false,
+        "blacklist": false,
+        "whitelist": false,
+        "afkReason": "",
+        "afkTime": -1,
+        "premiumExpiry": 0
       },
       "6282133336012@s.whatsapp.net": {
         "rpg": false,
@@ -2325,7 +2331,13 @@
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
-        "level": 0
+        "level": 0,
+        "banned": false,
+        "blacklist": false,
+        "whitelist": false,
+        "afkReason": "",
+        "afkTime": -1,
+        "premiumExpiry": 0
       },
       "6289524910051@s.whatsapp.net": {
         "rpg": false,
@@ -2346,7 +2358,13 @@
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
-        "level": 0
+        "level": 0,
+        "banned": false,
+        "blacklist": false,
+        "whitelist": false,
+        "afkReason": "",
+        "afkTime": -1,
+        "premiumExpiry": 0
       },
       "62895329036133@s.whatsapp.net": {
         "rpg": false,
@@ -2442,7 +2460,13 @@
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
-        "level": 0
+        "level": 0,
+        "banned": false,
+        "blacklist": false,
+        "whitelist": false,
+        "afkReason": "",
+        "afkTime": -1,
+        "premiumExpiry": 0
       },
       "6283873675565@s.whatsapp.net": {
         "rpg": false,
@@ -8007,7 +8031,9 @@
         "lastdagang": 0,
         "lastbansos": 0,
         "lastkerja": 0,
-        "lastrampok": 0
+        "lastrampok": 0,
+        "mingguanExpiry": 0,
+        "bulananExpiry": 0
       },
       "6282133336012@s.whatsapp.net": {
         "kapal": false,
@@ -8042,7 +8068,9 @@
         "lastdagang": 0,
         "lastbansos": 0,
         "lastkerja": 0,
-        "lastrampok": 0
+        "lastrampok": 0,
+        "mingguanExpiry": 0,
+        "bulananExpiry": 0
       },
       "6289524910051@s.whatsapp.net": {
         "kapal": false,
@@ -8077,7 +8105,9 @@
         "lastdagang": 0,
         "lastbansos": 0,
         "lastkerja": 0,
-        "lastrampok": 0
+        "lastrampok": 0,
+        "mingguanExpiry": 0,
+        "bulananExpiry": 0
       },
       "62895329036133@s.whatsapp.net": {
         "kapal": false,
@@ -8221,7 +8251,9 @@
         "lastdagang": 0,
         "lastbansos": 0,
         "lastkerja": 0,
-        "lastrampok": 0
+        "lastrampok": 0,
+        "mingguanExpiry": 0,
+        "bulananExpiry": 0
       },
       "6283873675565@s.whatsapp.net": {
         "kapal": false,
