@@ -1525,7 +1525,7 @@
         "limit": 94,
         "coins": 0,
         "saldo": 750,
-        "exp": 815,
+        "exp": 820,
         "rank": 757,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -1552,7 +1552,7 @@
         "limit": 10000000,
         "coins": 0,
         "saldo": 0,
-        "exp": 244,
+        "exp": 262,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -2226,7 +2226,13 @@
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
-        "level": 0
+        "level": 0,
+        "banned": false,
+        "blacklist": false,
+        "whitelist": false,
+        "afkReason": "",
+        "afkTime": -1,
+        "premiumExpiry": 0
       },
       "6285745322034@s.whatsapp.net": {
         "rpg": false,
@@ -8115,7 +8121,9 @@
         "lastdagang": 0,
         "lastbansos": 0,
         "lastkerja": 0,
-        "lastrampok": 0
+        "lastrampok": 0,
+        "mingguanExpiry": 0,
+        "bulananExpiry": 0
       },
       "6285745322034@s.whatsapp.net": {
         "kapal": false,
