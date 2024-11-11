@@ -1785,10 +1785,10 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 100,
+        "limit": 99,
         "coins": 0,
         "saldo": 0,
-        "exp": 0,
+        "exp": 3,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -1900,7 +1900,13 @@
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
-        "level": 0
+        "level": 0,
+        "banned": false,
+        "blacklist": false,
+        "whitelist": false,
+        "afkReason": "",
+        "afkTime": -1,
+        "premiumExpiry": 0
       },
       "6285753259806@s.whatsapp.net": {
         "rpg": false,
@@ -1926,7 +1932,7 @@
         "blacklist": false,
         "whitelist": false,
         "afkReason": "",
-        "afkTime": 1731313276999,
+        "afkTime": -1,
         "premiumExpiry": 0
       },
       "6285654845563@s.whatsapp.net": {
@@ -2868,7 +2874,13 @@
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
-        "level": 0
+        "level": 0,
+        "banned": false,
+        "blacklist": false,
+        "whitelist": false,
+        "afkReason": "",
+        "afkTime": -1,
+        "premiumExpiry": 0
       },
       "62895391551260@s.whatsapp.net": {
         "rpg": false,
@@ -7702,7 +7714,9 @@
         "lastdagang": 0,
         "lastbansos": 0,
         "lastkerja": 0,
-        "lastrampok": 0
+        "lastrampok": 0,
+        "mingguanExpiry": 0,
+        "bulananExpiry": 0
       },
       "6285753259806@s.whatsapp.net": {
         "kapal": false,
@@ -9117,7 +9131,9 @@
         "lastdagang": 0,
         "lastbansos": 0,
         "lastkerja": 0,
-        "lastrampok": 0
+        "lastrampok": 0,
+        "mingguanExpiry": 0,
+        "bulananExpiry": 0
       },
       "62895391551260@s.whatsapp.net": {
         "kapal": false,
